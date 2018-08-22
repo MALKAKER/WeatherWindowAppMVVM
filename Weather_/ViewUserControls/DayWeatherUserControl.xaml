@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="Weather_.ViewUserControls.DayWeatherUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Weather_.ViewUserControls"
+             mc:Ignorable="d" Width="314" Height="256" >
+    <UserControl.Background>
+        <SolidColorBrush Opacity="0.1" Color="Aqua"/>
+    </UserControl.Background>
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="cityBlock" HorizontalAlignment="center" Text="City"  Style="{StaticResource TitleTextBlock}" TextAlignment="Center" VerticalAlignment="center" FontSize="20" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" />
+        <Image HorizontalAlignment="center" Name="image_1" Width="73" Height="55" VerticalAlignment="center" Source="../icons/nuagepartielicone.png" Grid.Row="1" Grid.Column="0" />
+        <TextBlock x:Name="ans_Temp" HorizontalAlignment="Center" VerticalAlignment="Center"  Text="Temp" FontSize="22"  Style="{StaticResource TitleTextBlock}" Grid.Row="1" Grid.Column="1" />
+        <TextBlock Text="Condition:" Style="{StaticResource TitleTextBlock}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" Grid.Row="2" Grid.Column="0"/>
+        <TextBlock Text="Humidity:"  Style="{StaticResource TitleTextBlock}" VerticalAlignment="center" TextAlignment="Center" FontSize="20" Grid.Row="3" Grid.Column="0" Height="26" Margin="0,10,0,11" />
+        <TextBlock Text="Wind Speed:"  Style="{StaticResource TitleTextBlock}" VerticalAlignment="center" HorizontalAlignment="Center" TextAlignment="Center" FontSize="20" Grid.Row="4" Grid.Column="0"/>
+        <TextBlock Name="ans_Condition" VerticalAlignment="Center"  HorizontalAlignment="Center" TextAlignment="Center" Text="ans" FontSize="20" Grid.Row="2" Grid.Column="1"/>
+        <TextBlock Name="ans_Hum" Text="ans" VerticalAlignment="center"  HorizontalAlignment="Center" TextAlignment="Center" FontSize="20" Grid.Row="3" Grid.Column="1"/>
+        <TextBlock Name="ans_Speed" Text="ans" VerticalAlignment="center" TextAlignment="Center"  HorizontalAlignment="Center" FontSize="20" Grid.Row="4" Grid.Column="1"/>
+
+
+    </Grid>
+</UserControl>

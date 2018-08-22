@@ -1,0 +1,101 @@
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\Weather_.exe
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\BE.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\BL.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\DAL.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\EntityFramework.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\LiveCharts.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\Mindscape.WpfElements.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\BE.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\BE.dll.config
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\BL.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\BL.dll.config
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\DAL.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\DAL.dll.config
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\EntityFramework.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\LiveCharts.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\LiveCharts.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\Mindscape.WpfElements.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\ChartUserControl.g.cs
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\DayWeatherUserControl.g.cs
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\MapUserControl.g.cs
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\SearchBannerUserControl.g.cs
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\TableUserControl.g.cs
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\WeatherAppControl.g.cs
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\App.g.cs
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\Weather__MarkupCompile.cache
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\Weather__MarkupCompile.lref
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\ChartUserControl.baml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\DayWeatherUserControl.baml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\MapUserControl.baml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\SearchBannerUserControl.baml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\ViewUserControls\TableUserControl.baml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\WeatherAppControl.baml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\Weather_.g.resources
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\Weather_.Properties.Resources.resources
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\PL.csproj.GenerateResource.Cache
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\Weather_.exe.licenses
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\Weather_.exe
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\obj\Debug\Weather_.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\Weather_.exe.config
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\Weather_\bin\Debug\Weather_.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\Weather_.exe.config
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\Weather_.exe
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\Weather_.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\BE.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\BL.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\DAL.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\EntityFramework.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\LiveCharts.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\Mindscape.WpfElements.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\Newtonsoft.Json.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\BE.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\BE.dll.config
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\BL.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\BL.dll.config
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\DAL.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\DAL.dll.config
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\EntityFramework.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\LiveCharts.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\LiveCharts.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\Mindscape.WpfElements.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\bin\Debug\Newtonsoft.Json.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\ChartUserControl.g.cs
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\DayWeatherUserControl.g.cs
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\MapUserControl.g.cs
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\SearchBannerUserControl.g.cs
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\TableUserControl.g.cs
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\WeatherAppControl.g.cs
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\App.g.cs
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\Weather__MarkupCompile.cache
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\Weather__MarkupCompile.lref
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\App.baml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\ChartUserControl.baml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\DayWeatherUserControl.baml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\MapUserControl.baml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\SearchBannerUserControl.baml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\ViewUserControls\TableUserControl.baml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\WeatherAppControl.baml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\Weather_.g.resources
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\Weather_.Properties.Resources.resources
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\PL.csproj.GenerateResource.Cache
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\Weather_.exe.licenses
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\Weather_.exe
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\Weather_\obj\Debug\Weather_.pdb

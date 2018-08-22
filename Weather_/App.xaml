@@ -1,0 +1,46 @@
+﻿<Application x:Class="Weather_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Weather_"
+             StartupUri="WeatherAppControl.xaml">
+    <Application.Resources>
+        <Style x:Key="UserControlStyle" TargetType="{x:Type UserControl}">
+            <Setter Property="TextOptions.TextFormattingMode" Value="Display"/>
+            <Setter Property="FontFamily" Value="Sitka Small"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+        <Style x:Key="SearchBannerStyle" TargetType="{x:Type TextBlock}">
+            <Setter Property="TextOptions.TextFormattingMode" Value="Display"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>        
+        <Style x:Key="NightTextBlock" TargetType="{x:Type TextBlock}">
+            <Setter Property="Foreground" Value="#FF0528C7"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="10,10,10,10"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+
+        <Style x:Key="DayTextBlock" TargetType="{x:Type TextBlock}">
+            <Setter Property="Foreground" Value="#FFE66B25"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="10,10,10,10"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+
+        <Style x:Key="RegularTextBlock" TargetType="{x:Type TextBlock}">
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="10,10,10,10"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+        <Style x:Key="ImageCenterElements" TargetType="{x:Type Image}">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="10,10,10,10"/>
+        </Style>
+        <Style x:Key="TitleTextBlock" TargetType="{x:Type TextBlock}">
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+    </Application.Resources>
+</Application>

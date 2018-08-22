@@ -1,0 +1,300 @@
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\DAL.dll.config
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\DAL.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\DAL.pdb
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\BE.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Commands.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Common.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Configuration.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Credentials.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.LibraryModel.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.PackageManagement.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Packaging.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.ProjectModel.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Protocol.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Resolver.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Versioning.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\BE.pdb
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\BE.dll.config
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Commands.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Common.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Configuration.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.LibraryModel.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.PackageManagement.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Packaging.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.ProjectModel.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Protocol.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Resolver.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\NuGet.Versioning.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\obj\Debug\DAL.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\obj\Debug\DAL.pdb
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\OxyPlot.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\OxyPlot.pdb
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\OxyPlot.xml
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Shirly\C#_weather_project\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.dll.config
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.pdb
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\BE.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Commands.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Common.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Configuration.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Credentials.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Frameworks.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.LibraryModel.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.PackageManagement.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.ProjectModel.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Protocol.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Resolver.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Versioning.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\BE.pdb
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\BE.dll.config
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Commands.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Common.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Configuration.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Frameworks.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.LibraryModel.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.PackageManagement.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.ProjectModel.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Protocol.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Resolver.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Versioning.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.pdb
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.dll
+C:\Users\malki\Downloads\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.pdb
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.dll.config
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.pdb
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\BE.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Commands.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Common.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Configuration.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Credentials.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.LibraryModel.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.PackageManagement.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.ProjectModel.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Protocol.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Resolver.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Versioning.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\BE.pdb
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\BE.dll.config
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Commands.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Common.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Configuration.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.LibraryModel.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.PackageManagement.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.ProjectModel.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Protocol.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Resolver.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Versioning.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.pdb
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.dll
+C:\Users\Shirly\C#_20.8\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.dll.config
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\BE.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Commands.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Common.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Configuration.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Credentials.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Frameworks.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.LibraryModel.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.PackageManagement.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.ProjectModel.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Protocol.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Resolver.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Versioning.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\BE.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\BE.dll.config
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Commands.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Common.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Configuration.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Frameworks.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.LibraryModel.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.PackageManagement.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.ProjectModel.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Protocol.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Resolver.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Versioning.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_ 20.8_21.40\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.dll.config
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\DAL.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\BE.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Commands.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Common.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Configuration.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Credentials.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.LibraryModel.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.PackageManagement.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.ProjectModel.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Protocol.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Resolver.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Versioning.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\BE.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\BE.dll.config
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Commands.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Common.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Configuration.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.LibraryModel.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.PackageManagement.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.ProjectModel.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Protocol.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Resolver.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\NuGet.Versioning.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.dll
+C:\Users\Shirly\C#_21.8\Weather_ 20.8_02.36\Weather_ 20.8_02.36\Weather_ (8)\Weather_ (7)\Weather_\DAL\obj\Debug\DAL.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\DAL.dll.config
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\DAL.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\DAL.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\BE.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\EntityFramework.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Commands.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Common.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Configuration.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Credentials.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Frameworks.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.LibraryModel.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.PackageManagement.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Packaging.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.ProjectModel.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Protocol.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Resolver.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Versioning.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\OxyPlot.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\BE.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\BE.dll.config
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\EntityFramework.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Commands.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Common.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Configuration.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.DependencyResolver.Core.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Frameworks.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.LibraryModel.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.PackageManagement.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Packaging.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.ProjectModel.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Protocol.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Resolver.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\NuGet.Versioning.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\OxyPlot.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\OxyPlot.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\obj\Debug\DAL.dll
+C:\Users\malki\Documents\תואר ראשון ביואינפורמטיקה\סימסטר ב שנה ג\הנדסת מערכת חלונות\Weather_21.8_23_15\Weather_\DAL\obj\Debug\DAL.pdb
